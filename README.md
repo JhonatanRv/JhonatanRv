@@ -5,7 +5,7 @@
 - 📫 How to reach me: Jhonatan_r_v@outlook.com
 -->
 <div align="center">
-    <a href="https://github.com/LucasGill">
+    <a href="https://github.com/JhonatanRv">
     <img height="180em" src="https://github-readme-status.vercel.app/api?username=JhonatanRv&show_icons=true&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanRv&show_icons=true&theme=dark"/>
    </div>
