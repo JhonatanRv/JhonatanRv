@@ -1,4 +1,4 @@
-## Hi! I'm Jhonatan Ribeiro
+## Hi! I'm Jhonatan Ribeiro 😎
 
 - 🌱 I’m currently studying Sytem Analisys and Development 
 - 🤔 I’m looking for help for finding my first job
