@@ -1,4 +1,4 @@
-## Hi! I'm Jhonatan Ribieiro
+## Hi! I'm Jhonatan Ribeiro
 
 - 🌱 I’m currently studying Sytem Analisys and Development 
 - 🤔 I’m looking for help for finding my first job
@@ -6,7 +6,7 @@
 -->
 <div align="center">
     <a href="https://github.com/JhonatanRv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=JhonatanRv&theme=dark)"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=JhonatanRv&show_icons=true&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanRv&show_icons=true&theme=dark"/>
    </div>
   
